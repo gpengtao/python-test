@@ -1,0 +1,4 @@
+# coding=gbk
+
+print "Œ“"
+print "hello world"
