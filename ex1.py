@@ -1,6 +1,6 @@
-# coding=gbk
+# coding=utf8
 
-print "ÎÒ"
+print "æˆ‘"
 print "hello world"
 print "I like typing this."
 print "This is fun."
