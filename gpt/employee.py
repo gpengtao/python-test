@@ -23,3 +23,6 @@ class Employee:
 def say_hello(man):
     """say hello"""
     print "hello " + man
+
+
+print "hello import employee"
