@@ -19,6 +19,9 @@ class Employee:
     def show_class_name(self):
         print self.__class__.__name__
 
+    def __nonzero__(self):
+        return False
+
 
 def say_hello(man):
     """say hello"""

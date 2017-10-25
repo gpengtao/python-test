@@ -1,5 +1,7 @@
 # coding=utf8
 
+import gpt.employee
+
 print "我"
 print "hello world"
 print "I like typing this."

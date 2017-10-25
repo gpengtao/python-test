@@ -10,3 +10,8 @@ employee.display_employee()
 employee.show_class_name()
 
 gpt.employee.say_hello("john")
+
+if employee:
+    print "employee true"
+else:
+    print "employee false"
